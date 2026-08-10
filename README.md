@@ -22,13 +22,15 @@ A Lifestyle mobile app made with Flutter &amp; Dart, that connects users with in
 
 
 <h2>Development</h2>
-This project is an MVP for the full app. Programming in Dart and using the Flutter SDK, I developed responsive and clean UIs for different app screens. Built custom widgets, animations, and data types to improve code modularity and the app's appearance. Implemented persistent local storage using the Hive database to retain app data across sessions. Designed all app screens, taking into account the desired look, feel, and functions of the app.
+<p>This project is an MVP for the full app. Programming in Dart and using the Flutter SDK, I developed responsive and clean UIs for different app screens. Built custom widgets, animations, and data types to improve code modularity and the app's appearance. Implemented persistent local storage using the Hive database to retain app data across sessions. Designed all app screens, taking into account the desired look, feel, and functions of the app.</p>
 
-The app's functionality could be taken further, which I plan to do in the near future. The next phase of development includes:
+The app's functionality could be taken further, which I plan to do in the future. The next phase of development includes:
   - Storing check-in & saved quotes data in Hive, and using this to develop a simple algorithm for daily quote recommendations.
   - Improving quote sizing on tiles for better readability
   - Going an extra step with UI responsiveness for some buttons (eg. add, save)
   - Building out the profile page, including setting user info, profile picture, and preferences
+
+Download the .apk file for mobile download here: https://betadrop.app/install/?i=GYyenv
 
 
 
