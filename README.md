@@ -31,6 +31,3 @@ The app's functionality could be taken further, which I plan to do in the future
   - Building out the profile page, including setting user info, profile picture, and preferences
 
 Download the .apk file for mobile download here: https://betadrop.app/install/?i=GYyenv
-
-
-
