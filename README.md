@@ -8,17 +8,13 @@ A Lifestyle mobile app made with Flutter &amp; Dart, that connects users with in
 - Save quotes that move you and display them on your saved board
 - Add your own quotes from authors, family, or friends
 
-<div>
-  <img width=auto height=500 alt="homepage" src="https://github.com/user-attachments/assets/3a9382d0-6f07-4cb8-a7d3-f66d9ab9de74" />
-  <img width=auto height=500 alt="checkin" src="https://github.com/user-attachments/assets/bdc68b8d-f597-41ee-9478-5f2a11d15c33" />
-  <img width=auto height=500 alt="discover" src="https://github.com/user-attachments/assets/444e5077-4210-410f-b08b-07fd83bdeef2" />
-  <img width=auto height=500 alt="goals" src="https://github.com/user-attachments/assets/57567d3e-3832-4fb9-842c-8ce085cdde7d" />
-</div>
-<div>
+<img width=auto height=500 alt="homepage" src="https://github.com/user-attachments/assets/3a9382d0-6f07-4cb8-a7d3-f66d9ab9de74" />
+<img width=auto height=500 alt="checkin" src="https://github.com/user-attachments/assets/bdc68b8d-f597-41ee-9478-5f2a11d15c33" />
+<img width=auto height=500 alt="discover" src="https://github.com/user-attachments/assets/444e5077-4210-410f-b08b-07fd83bdeef2" />
+<img width=auto height=500 alt="goals" src="https://github.com/user-attachments/assets/57567d3e-3832-4fb9-842c-8ce085cdde7d" />
 <img width=auto height=500 alt="goals_create" src="https://github.com/user-attachments/assets/a95ea368-3067-4c29-ba75-fdb794d72095" />
 <img width=auto height=500 alt="saved" src="https://github.com/user-attachments/assets/6c28db61-fb12-4cd5-9152-aa8a60eeb5a0" />
 <img width=auto height=500 alt="saved_ayo" src="https://github.com/user-attachments/assets/58fa93db-b83f-4f8e-9383-95329b677d34" />
-</div>
 
 
 <h2>Development</h2>
